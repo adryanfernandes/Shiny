@@ -11,3 +11,5 @@ O que é o Shiny?
 
 Hoje temos diversos exemplos de aplicabildiade dessa biblioteca fantastica
 
+Uma forma de utilizar uma linguagem que vc ainda não conhece é com o auxili de boot de linguagem (conhecidos como IA generativa)
+
