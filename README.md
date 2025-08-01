@@ -13,3 +13,5 @@ Hoje temos diversos exemplos de aplicabildiade dessa biblioteca fantastica
 
 Uma forma de utilizar uma linguagem que vc ainda não conhece é com o auxili de boot de linguagem (conhecidos como IA generativa)
 
+1 - Mapa interativo - estabelecimentos ao redor  
+2 - painel de produtividade  
